@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gev:home|Door43 (gev)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gev|d43-gev repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gev/archive/master.zip|d43-gev.zip]]
+
+**Recent Changes**
+{{changes>ns = gev}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gev|Ethnologue data]]
+
